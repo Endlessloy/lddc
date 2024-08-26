@@ -7,8 +7,8 @@
 # PROCESS-NAME: 1
 # TOTAL: 47
 DOMAIN-SUFFIX,max.com
-DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,api.discomax.com
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
-DOMAIN-SUFFIX,brightline.tv
-DOMAIN-SUFFIX,io
+DOMAIN-KEYWORD,brightline
+DOMAIN-KEYWORD,io
